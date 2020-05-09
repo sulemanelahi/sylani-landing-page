@@ -1,0 +1,65 @@
+@import: url("bootstrap.min.css")
+
+.wawd{
+    background-color:#F7F8FA
+}
+
+
+.wawd h1 span{
+    color: #427900;
+}
+
+.col{
+    margin: 20px;
+    /* size: 100%; */
+}
+
+.card img{
+    padding: 20px;
+    height:100px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.card-text {
+    color: #316DC3;
+    font-weight: bold;
+    text-align: center;
+}
+
+.xyz{
+     margin: 20px;
+     padding: 20px;
+ }
+
+ .text-inweb{
+     color: #316DC3;
+     text-align: center;
+ }
+
+ .text-inweb span{
+     color: #427900;
+
+ }
+
+
+ ul{
+     display: -webkit-inline-box;
+     list-style-type: none;
+ }
+
+ ul li {
+     margin: 20px;
+ }
+ 
+ .para{
+     margin: 100px;
+text-align: justify;
+ }
+
+ footer{
+     background-color: #25272E;
+     color: whitesmoke;
+     margin-top: 50px;
+ }
+/* footer css */
